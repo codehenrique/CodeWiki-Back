@@ -1,0 +1,9 @@
+C:\Users\henri\Documents\CodeWiki\CodeWiki.Domain\bin\Debug\netcoreapp3.1\CodeWiki.Domain.deps.json
+C:\Users\henri\Documents\CodeWiki\CodeWiki.Domain\bin\Debug\netcoreapp3.1\CodeWiki.Domain.dll
+C:\Users\henri\Documents\CodeWiki\CodeWiki.Domain\bin\Debug\netcoreapp3.1\CodeWiki.Domain.pdb
+C:\Users\henri\Documents\CodeWiki\CodeWiki.Domain\obj\Debug\netcoreapp3.1\CodeWiki.Domain.csproj.CoreCompileInputs.cache
+C:\Users\henri\Documents\CodeWiki\CodeWiki.Domain\obj\Debug\netcoreapp3.1\CodeWiki.Domain.AssemblyInfoInputs.cache
+C:\Users\henri\Documents\CodeWiki\CodeWiki.Domain\obj\Debug\netcoreapp3.1\CodeWiki.Domain.AssemblyInfo.cs
+C:\Users\henri\Documents\CodeWiki\CodeWiki.Domain\obj\Debug\netcoreapp3.1\CodeWiki.Domain.dll
+C:\Users\henri\Documents\CodeWiki\CodeWiki.Domain\obj\Debug\netcoreapp3.1\CodeWiki.Domain.pdb
+C:\Users\henri\Documents\CodeWiki\CodeWiki.Domain\obj\Debug\netcoreapp3.1\CodeWiki.Domain.csprojAssemblyReference.cache

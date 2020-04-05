@@ -1,0 +1,15 @@
+C:\Users\henri\Documents\CodeWiki\CodeWiki.Infra.Data\bin\Debug\netcoreapp3.1\CodeWiki.Infra.Data.deps.json
+C:\Users\henri\Documents\CodeWiki\CodeWiki.Infra.Data\bin\Debug\netcoreapp3.1\CodeWiki.Infra.Data.runtimeconfig.json
+C:\Users\henri\Documents\CodeWiki\CodeWiki.Infra.Data\bin\Debug\netcoreapp3.1\CodeWiki.Infra.Data.runtimeconfig.dev.json
+C:\Users\henri\Documents\CodeWiki\CodeWiki.Infra.Data\bin\Debug\netcoreapp3.1\CodeWiki.Infra.Data.dll
+C:\Users\henri\Documents\CodeWiki\CodeWiki.Infra.Data\bin\Debug\netcoreapp3.1\CodeWiki.Infra.Data.pdb
+C:\Users\henri\Documents\CodeWiki\CodeWiki.Infra.Data\bin\Debug\netcoreapp3.1\CodeWiki.Domain.dll
+C:\Users\henri\Documents\CodeWiki\CodeWiki.Infra.Data\bin\Debug\netcoreapp3.1\CodeWiki.Domain.pdb
+C:\Users\henri\Documents\CodeWiki\CodeWiki.Infra.Data\obj\Debug\netcoreapp3.1\CodeWiki.Infra.Data.csprojAssemblyReference.cache
+C:\Users\henri\Documents\CodeWiki\CodeWiki.Infra.Data\obj\Debug\netcoreapp3.1\CodeWiki.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Users\henri\Documents\CodeWiki\CodeWiki.Infra.Data\obj\Debug\netcoreapp3.1\CodeWiki.Infra.Data.AssemblyInfoInputs.cache
+C:\Users\henri\Documents\CodeWiki\CodeWiki.Infra.Data\obj\Debug\netcoreapp3.1\CodeWiki.Infra.Data.AssemblyInfo.cs
+C:\Users\henri\Documents\CodeWiki\CodeWiki.Infra.Data\obj\Debug\netcoreapp3.1\CodeWiki.Infra.Data.csproj.CopyComplete
+C:\Users\henri\Documents\CodeWiki\CodeWiki.Infra.Data\obj\Debug\netcoreapp3.1\CodeWiki.Infra.Data.dll
+C:\Users\henri\Documents\CodeWiki\CodeWiki.Infra.Data\obj\Debug\netcoreapp3.1\CodeWiki.Infra.Data.pdb
+C:\Users\henri\Documents\CodeWiki\CodeWiki.Infra.Data\obj\Debug\netcoreapp3.1\CodeWiki.Infra.Data.genruntimeconfig.cache

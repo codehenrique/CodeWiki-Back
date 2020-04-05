@@ -1,0 +1,9 @@
+C:\Users\henri\Documents\CodeWiki\CodeWiki.Infra.CrossCutting\bin\Debug\netcoreapp3.1\CodeWiki.Infra.CrossCutting.deps.json
+C:\Users\henri\Documents\CodeWiki\CodeWiki.Infra.CrossCutting\bin\Debug\netcoreapp3.1\CodeWiki.Infra.CrossCutting.dll
+C:\Users\henri\Documents\CodeWiki\CodeWiki.Infra.CrossCutting\bin\Debug\netcoreapp3.1\CodeWiki.Infra.CrossCutting.pdb
+C:\Users\henri\Documents\CodeWiki\CodeWiki.Infra.CrossCutting\obj\Debug\netcoreapp3.1\CodeWiki.Infra.CrossCutting.csproj.CoreCompileInputs.cache
+C:\Users\henri\Documents\CodeWiki\CodeWiki.Infra.CrossCutting\obj\Debug\netcoreapp3.1\CodeWiki.Infra.CrossCutting.AssemblyInfoInputs.cache
+C:\Users\henri\Documents\CodeWiki\CodeWiki.Infra.CrossCutting\obj\Debug\netcoreapp3.1\CodeWiki.Infra.CrossCutting.AssemblyInfo.cs
+C:\Users\henri\Documents\CodeWiki\CodeWiki.Infra.CrossCutting\obj\Debug\netcoreapp3.1\CodeWiki.Infra.CrossCutting.dll
+C:\Users\henri\Documents\CodeWiki\CodeWiki.Infra.CrossCutting\obj\Debug\netcoreapp3.1\CodeWiki.Infra.CrossCutting.pdb
+C:\Users\henri\Documents\CodeWiki\CodeWiki.Infra.CrossCutting\obj\Debug\netcoreapp3.1\CodeWiki.Infra.CrossCutting.csprojAssemblyReference.cache
