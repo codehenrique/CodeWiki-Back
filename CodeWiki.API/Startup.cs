@@ -30,13 +30,11 @@ namespace CodeWiki.API
             });
             services.AddControllers();
 
-            services.AddDbContext<CodeWikiContext>
-            (
-                x =>
-                {
-                    x.UseLazyLoadingProxies()
-                                        .UseSqlServer(Configuration.GetConnectionString("CodeWikiDB"), x => x.MigrationsAssembly("CodeWiki.Infra.Data"));
-                });
+            services.AddDbContext<CodeWikiContext>(x =>
+            {
+                x.UseLazyLoadingProxies()
+                    .UseSqlServer(Configuration.GetConnectionString("CodeWikiDB"), x => x.MigrationsAssembly("CodeWiki.Infra.Data"));
+            });
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
