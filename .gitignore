@@ -1,2 +1,19 @@
 # IDE - VS
 .vs/*
+CodeWiki.API/bin
+CodeWiki.API/obj
+
+CodeWiki.Domain/bin
+CodeWiki.Domain/obj
+
+CodeWiki.Infra.Data/bin
+CodeWiki.Infra.Data/obj
+
+CodeWiki.Infra.CrossCutting/bin
+CodeWiki.Infra.CrossCutting/obj
+
+CodeWiki.Service/bin
+CodeWiki.Service/obj
+
+CodeWiki.Tests/bin
+CodeWiki.Tests/obj
